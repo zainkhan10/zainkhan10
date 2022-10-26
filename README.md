@@ -2,7 +2,7 @@
 <p align="left">A Full Stack Software Engineer who’s passionate about creating Fullstack web & mobile applications that can be of value to others. Highly passionate about System Design, Architecture and Clean Code. Besides juggling work, content creation and other commitments, I can be found traveling to contemplate the meaning of life under the stars ✨
 </p>
 
-## 👉 Languages and Tools:
+## Languages and Tools:
 <p align="left">
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
     <img
@@ -10,7 +10,7 @@
       alt="amplify"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -19,7 +19,7 @@
       alt="angular"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -28,7 +28,7 @@
       alt="angularjs"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -37,7 +37,7 @@
       alt="aws"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
@@ -46,7 +46,7 @@
       alt="babel"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -55,7 +55,7 @@
       alt="bash"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -64,7 +64,7 @@
       alt="bootstrap"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
@@ -73,7 +73,7 @@
       alt="chartjs"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -82,7 +82,7 @@
       alt="css3"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
@@ -91,7 +91,6 @@
       alt="cypress"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
     />
   </a>
   <a href="https://d3js.org/" target="_blank" rel="noreferrer">
@@ -100,7 +99,7 @@
       alt="d3js"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -109,7 +108,7 @@
       alt="django"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -118,7 +117,7 @@
       alt="docker"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -127,7 +126,7 @@
       alt="express"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -136,7 +135,7 @@
       alt="figma"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -145,7 +144,7 @@
       alt="firebase"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -154,7 +153,7 @@
       alt="git"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
@@ -163,7 +162,7 @@
       alt="graphql"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
@@ -172,7 +171,7 @@
       alt="heroku"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -181,7 +180,7 @@
       alt="html5"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a
@@ -194,7 +193,7 @@
       alt="javascript"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
@@ -203,7 +202,7 @@
       alt="jenkins"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
@@ -212,7 +211,7 @@
       alt="jest"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
@@ -221,7 +220,7 @@
       alt="kafka"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -230,7 +229,7 @@
       alt="linux"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
@@ -239,7 +238,7 @@
       alt="mariadb"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
@@ -248,7 +247,7 @@
       alt="materialize"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://mochajs.org" target="_blank" rel="noreferrer">
@@ -257,7 +256,7 @@
       alt="mocha"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -266,7 +265,7 @@
       alt="mongodb"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a
@@ -279,7 +278,7 @@
       alt="mssql"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -288,7 +287,7 @@
       alt="mysql"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
@@ -297,7 +296,7 @@
       alt="nestjs"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
@@ -306,7 +305,7 @@
       alt="nextjs"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
@@ -315,7 +314,7 @@
       alt="nginx"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -324,7 +323,7 @@
       alt="nodejs"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -333,7 +332,7 @@
       alt="postgresql"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
@@ -342,7 +341,7 @@
       alt="postman"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -351,7 +350,7 @@
       alt="python"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
@@ -360,7 +359,7 @@
       alt="rabbitMQ"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -369,7 +368,7 @@
       alt="react"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
@@ -378,7 +377,7 @@
       alt="reactnative"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://realm.io/" target="_blank" rel="noreferrer">
@@ -387,7 +386,7 @@
       alt="realm"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer">
@@ -396,7 +395,7 @@
       alt="redis"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
@@ -405,7 +404,7 @@
       alt="redux"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
@@ -414,7 +413,7 @@
       alt="sass"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
@@ -423,7 +422,7 @@
       alt="selenium"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
@@ -432,7 +431,7 @@
       alt="sqlite"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -441,7 +440,7 @@
       alt="tailwind"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -450,7 +449,7 @@
       alt="typescript"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
@@ -459,7 +458,7 @@
       alt="vuejs"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
@@ -468,13 +467,14 @@
       alt="webpack"
       width="40"
       height="40"
-      style="margin-right: 15px; margin-bottom: 10px"
+      class="mr-3 mb-3"
     />
   </a>
 </p>
 
+<br/>
 
-## 👉 IDE & OS
+## IDE & OS
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp; ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) &nbsp; ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) &nbsp; ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
